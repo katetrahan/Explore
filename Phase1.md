@@ -53,3 +53,35 @@ _[Jeff Barr Twitter](https://twitter.com/jeffbarr)_
 * **The importance of finding your community** Jeff Barr has 125K followers on twitter and he does a great job catering to the community he wants to engage. He posts how-to's and images along with industry trends and personal experiences all of which are relatable to his tribe.
 
 * **The importance of displaying the same information different ways** Jeff has a lot of tweets about the same topics but he presents them in different ways knowing that different presentations will resonate with different people. Personally, I am more visual so having the images and graphs helps me in a lot of ways.
+
+
+## What is marketing technology?
+_I decided to look into more about what exactly marketing technology is.I found an article from AdAge on "MarTech"._
+
+_Marketing Technology Explained: Everything You Need Know written by George Slefo(4/18/2017)[AdAge](http://adage.com/article/digital/marketing-technology-explained/308661/)_
+
+![AdAge](./images/AdAge.png)
+
+* **Marketing Technology is different from AdTech** Marketing Technology can be confused with Advertising Technology. Marketing Technology is used to build,manage,deliver and optimize campaigns. Again, it is all about problem solving marketing technology is solving different problems from advertising technology.
+
+* **Data is huge** Again, everyone wants to make sense of their data. Businesses are collecting all sorts of information daily and they want to be able to take that data and turn it into something they can use.
+
+* **AI** The article brings up a good point about trends in martech, currently on the rise is artificial  intelligence. The reason being is making sense of all of the data but also being able to scale the work that comes with using data to alter campaigns to different demographics.
+
+## What other titles are there besides marketing engineer?
+
+_I decided to look up titles similar to marketing engineer. I found a compelling title of Information Architecture - the structural design of shared information, environments, and the art and science of organizing and labeling websites, intranets, online communities and software to support usability and findability._
+
+_IA and UX design(https://uxplanet.org/information-architecture-basics-for-designers-b5d43df62e20)_
+
+! [AI](./images/AI.png)
+
+* **User Experience** User experience weighs heavy on number of returns a site experiences. If the site takes forever to load, if something is hard to find, if the search functionality doesn't work well, are all examples of why users would leave a site and would also contribute to why users wouldn't return to a site. I feel I am too junior to apply to IA positions yet but with this knowledge I plan to work more on the user friendliness of my applications in school and as I move in my career.  
+
+## What marketing software is out there?
+
+_I googled the top marketing software firms and found a list of the best marketing software for 2018._
+
+_Top Marketing Softwares for 2018(https://www.softwareadvice.com/marketing/)_
+
+* **Top Trends** The top trends for marketing software as listed by this website are InfusionSoft, Marketo, Salesforce, Campaign Monitor, SharpSpring, ActOn. I recently went to a MeetUp hosted by ActOn and found it had a lot of what I was looking for in a company. They are currently hiring(https://www.act-on.com/careers/listings/)
