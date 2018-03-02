@@ -10,4 +10,4 @@ _I started my pursuit with a general google search. I typed "marketing developer
 ## How and why to combine marketing and development
 
 _Blog_
-![Blog](./images/blog.png)
+![Blog](./images/blog1.png)
