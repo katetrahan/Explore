@@ -24,9 +24,9 @@ _While today could have been spent working on many different items, I have chose
 | **What softwares are being used in theses roles?**|
 | **How can I use my previous experience and code experience to show I am capable of these roles?**|
 | **What projects can I work on moving forward to help prove myself for these roles?**|
-| **What MeetUps can I attend to pursue further success in these roles?|
-| **Are there mentors/networks I can reach out to in this space?|
-| **What softwares/languages/frameworks can I learn more about to become successful in these roles?|
+| **What MeetUps can I attend to pursue further success in these roles?**|
+| **Are there mentors/networks I can reach out to in this space?**|
+| **What softwares/languages/frameworks can I learn more about to become successful in these roles?**|
 
 ## Goals for today
 * _Find roles that achieve my love of marketing and interest in development._
