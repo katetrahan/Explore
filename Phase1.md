@@ -39,7 +39,7 @@ _Blog from Forbes written by Sujan Patel on (11/26/2016) [7 Saas Companies That 
 
 ## AWS Jeff Barr
 
-_As I continued down the rabbit hole of my searches I found some information on AWS and their marketing team. At Epicodus I have been able to learn more about AWS through guest speakers. I stumbled upon Jeff Barr's twitter and found that he is the Chief Evangelist for AWS. His job description reads "Jeff gets to tell the AWS story to audiences all over the world. Jeff talks, blogs, records videos, and spreads the word via social media"._
+_As I continued down the rabbit hole of my searches I found some information on AWS and their marketing team. At Epicodus I have been able to learn more about AWS through guest speakers. I stumbled upon Jeff Barr's twitter and found that he is the Chief Evangelist for AWS. His job description reads "Jeff gets to tell the AWS story to audiences all over the world. Jeff talks, blogs, records videos, and spreads the word via social media".Below I have added Jeff Barr's twitter account._
 
 _[Jeff Barr Twitter](https://twitter.com/jeffbarr)_
 
@@ -47,3 +47,9 @@ _[Jeff Barr Twitter](https://twitter.com/jeffbarr)_
 ![Display](./images/JB2.png)
 ![Display1](./images/JB3.png)
 ![Display2](./images/JB4.png)
+
+## What I found from following Jeff Barr on Twitter:
+
+* **The importance of finding your community** Jeff Barr has 125K followers on twitter and he does a great job catering to the community he wants to engage. He posts how-to's and images along with industry trends and personal experiences all of which are relatable to his tribe.
+
+* **The importance of displaying the same information different ways** Jeff has a lot of tweets about the same topics but he presents them in different ways knowing that different presentations will resonate with different people. Personally, I am more visual so having the images and graphs helps me in a lot of ways.
