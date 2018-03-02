@@ -29,7 +29,7 @@ _Next, I decided to search SaaS.During my time at Epicodus, I have learned more 
 
 _Blog from Forbes written by Sujan Patel on (11/26/2016) [7 Saas Companies That Succeeded with Content Marketing](https://www.forbes.com/sites/sujanpatel/2016/11/26/7-saas-companies-that-succeeded-with-content-marketing/#308eab9273fa)_
 
-! [SaaS](./images/SaaSMarketing.png)
+![SaaS](./images/SaaSMarketing.png)
 
 ## What I found from the reading:
 
@@ -43,7 +43,7 @@ _As I continued down the rabbit hole of my searches I found some information on 
 
 _[Jeff Barr Twitter](https://twitter.com/jeffbarr)_
 
-! [Jeff Barr Twitter](./images/JB1.png)
-! [Display](./images/JB2.png)
-! [Display1](./images/JB3.png)
-! [Display2](./images/JB4.png)
+![Jeff Barr Twitter](./images/JB1.png)
+![Display](./images/JB2.png)
+![Display1](./images/JB3.png)
+![Display2](./images/JB4.png)
