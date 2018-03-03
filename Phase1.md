@@ -2,7 +2,7 @@
 
 ## Search
 
-_I decided to search "how to combine marketing and development".Here is what I found_
+_I decided to search "how to combine marketing and development"._
 
 ## How and why to combine marketing and development
 

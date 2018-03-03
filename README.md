@@ -16,6 +16,7 @@
 _While today could have been spent working on many different items, I have chosen to pursue the world of marketing technology/marketing engineering. Before I came to Epicodus I was a Content Coordinator at a creative agency, which were preceded by studying marketing in college. While working, I found myself constantly working with developers and wanting to know more about what they did and what their applications did. I came into Epicodus with the idea that learning code could help me communicate more effectively with developers but as I have continued at Epicodus I have learned that marketing engineering/marketing technology can be its own career entirely, which is extremely exciting to me. While I have been introduced to the career I really don't know that much about it I have decided to use today to explore this world and hopefully find more careers/experiences that I can find fitting for me. Created 3/2/2018._
 
 ### Questions to answer today
+|--------------|----------------|---------------------|
 | **What does it mean to be in marketing technology?**|
 | **What other titles are there besides marketing engineer?**|
 | **What companies are hiring these roles?**|
