@@ -74,7 +74,7 @@ _I decided to look up titles similar to marketing engineer. I found a compelling
 
 _IA and UX design(https://uxplanet.org/information-architecture-basics-for-designers-b5d43df62e20)_
 
-! [AI](./images/AI.png)
+![AI](./images/AI.png)
 
 * **User Experience** User experience weighs heavy on number of returns a site experiences. If the site takes forever to load, if something is hard to find, if the search functionality doesn't work well, are all examples of why users would leave a site and would also contribute to why users wouldn't return to a site. I feel I am too junior to apply to IA positions yet but with this knowledge I plan to work more on the user friendliness of my applications in school and as I move in my career.  
 
