@@ -34,6 +34,19 @@ _While today could have been spent working on many different items, I have chose
 * _Apply these knowledges to my resume._
 * _Reach out to experienced people on LinkedIn_
 
+## How I spent my eight hours
+* _Morning:_
+* _I wrote out a strengths and weaknesses list._
+* _I thought about what questions I have been wanting to ask myself but have not had the time to ask. I thought about what I like to do and what I realistically see myself doing moving forward._
+* _I created a README with questions that would be helpful. I also laid out some goals I wanted to accomplish by the end of the day today._
+* _I began doing some research and general google searches._
+* _Afternoon:_
+* _I narrowed my searches and went down some rabbit holes where I discovered information on content marketing in development, MarTech and AWS content strategy._
+* _I set some goals for myself based on my findings. I listed out what I would like to study and learn more about in order to be successful in this career path._
+* _I looked into MeetUps around town dealing with MarTech._
+* _I created a Medium blog and used sketch to create some Venn Diagrams. I look forward to working on this as I continue my journey in the job hunt._
+
+
 ## Setup/Installation Requirements
 
 * _Clone repository to your machine from GitHub_
